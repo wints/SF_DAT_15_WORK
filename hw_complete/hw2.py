@@ -107,15 +107,18 @@ scores = cross_val_score(logreg, X, y, scoring='accuracy', cv=5)
 print scores
 print scores.mean() # cv accuracy = 0.6958
 
-y_preds = logreg.predict(X)
-print metrics.confusion_matrix(y, y_preds)
+y_preds = logreg.predict(X_test)
+print metrics.confusion_matrix(y_test, y_preds)
+cm = metrics.confusion_matrix(y_test, y_preds)
 '''
 confusion matrix:
-[[ 227 2910]
- [ 130 6733]]
+[[  52  727]
+ [  28 1693]]
  '''
-# sensitivity = (227/357) = 63.6%
-# specificity = (6733/9643) = 69.8%%
+sensitivity = (float(cm[0,0]) / (cm[0,0] + cm[1,0]))
+specificity = (float(cm[1,1]) / (cm[1,1] + cm[0,1]))
+# sensitivity = 65%
+# specificity = 69.9%%
 
 # 8. Perform one NEW operation of your 
 # choosing to try to boost your metrics!
@@ -193,16 +196,16 @@ scores = cross_val_score(logreg, X, y, scoring='accuracy', cv=10)
 print scores
 print scores.mean() # accuracy = 0.667
 
-y_preds = logreg.predict(X)
+y_preds = logreg.predict(X_test)
 from sklearn import metrics
-cm = metrics.confusion_matrix(y, y_preds)
+cm = metrics.confusion_matrix(y_test, y_preds)
 '''
 confusion matrix
-[529,  20]
-[267,  75]
+[[127,   8],
+[ 69,  19]]
 '''
-sensitivity = (float(cm[0,0]) / (cm[0,0] + cm[1,0])) # sensitivity = 66.4%
-specificity = (float(cm[1,1]) / (cm[1,1] + cm[0,1])) # specificity = 78.9% 
+sensitivity = (float(cm[0,0]) / (cm[0,0] + cm[1,0])) # sensitivity = 64.8%
+specificity = (float(cm[1,1]) / (cm[1,1] + cm[0,1])) # specificity = 70.37% 
 
 # 9. now use ANY of your variables as predictors
 # Still using survived as a response to boost metrics!
@@ -221,9 +224,9 @@ scores = cross_val_score(logreg, X, y, scoring='accuracy', cv=10)
 print scores
 print scores.mean() # accuracy = 0.7969
 
-y_preds = logreg.predict(X)
+y_preds = logreg.predict(X_test)
 from sklearn import metrics
-cm = metrics.confusion_matrix(y, y_preds)
+cm = metrics.confusion_matrix(y_test, y_preds)
 
-sensitivity = (float(cm[0,0]) / (cm[0,0] + cm[1,0])) # sensitivity = 81.14%
-specificity = (float(cm[1,1]) / (cm[1,1] + cm[0,1])) # specificity = 77.44%
+sensitivity = (float(cm[0,0]) / (cm[0,0] + cm[1,0])) # sensitivity = 86.36%
+specificity = (float(cm[1,1]) / (cm[1,1] + cm[0,1])) # specificity = 72.53%
