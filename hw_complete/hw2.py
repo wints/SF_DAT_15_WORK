@@ -112,13 +112,14 @@ print metrics.confusion_matrix(y_test, y_preds)
 cm = metrics.confusion_matrix(y_test, y_preds)
 '''
 confusion matrix:
-[[  52  727]
- [  28 1693]]
+[[  53  727]
+ [  31 1689]]
  '''
-sensitivity = (float(cm[0,0]) / (cm[0,0] + cm[1,0]))
-specificity = (float(cm[1,1]) / (cm[1,1] + cm[0,1]))
-# sensitivity = 65%
-# specificity = 69.9%%
+specificity = (float(cm[0,0]) / (cm[0,0] + cm[0,1]))
+sensitivity = (float(cm[1,1]) / (cm[1,1] + cm[1,0]))
+# specificity = 6.8%
+# sensitivity = 98.19%
+
 
 # 8. Perform one NEW operation of your 
 # choosing to try to boost your metrics!
@@ -204,8 +205,8 @@ confusion matrix
 [[127,   8],
 [ 69,  19]]
 '''
-sensitivity = (float(cm[0,0]) / (cm[0,0] + cm[1,0])) # sensitivity = 64.8%
-specificity = (float(cm[1,1]) / (cm[1,1] + cm[0,1])) # specificity = 70.37% 
+specificity = (float(cm[0,0]) / (cm[0,0] + cm[0,1])) # sensitivity = 95.3%
+sensitivity = (float(cm[1,1]) / (cm[1,1] + cm[1,0])) # specificity = 19.2%
 
 # 9. now use ANY of your variables as predictors
 # Still using survived as a response to boost metrics!
@@ -228,5 +229,5 @@ y_preds = logreg.predict(X_test)
 from sklearn import metrics
 cm = metrics.confusion_matrix(y_test, y_preds)
 
-sensitivity = (float(cm[0,0]) / (cm[0,0] + cm[1,0])) # sensitivity = 86.36%
-specificity = (float(cm[1,1]) / (cm[1,1] + cm[0,1])) # specificity = 72.53%
+specificity = (float(cm[0,0]) / (cm[0,0] + cm[0,1])) # specificity = 88.9%
+sensitivity = (float(cm[1,1]) / (cm[1,1] + cm[1,0])) # sensitivity = 68.35%
