@@ -1,0 +1,580 @@
+artist,dateposted,loved_count,mediaid,posted_count,sitename,time,title,loved
+Avicii,1436622557,7272,2c6ye,7,Music You Wanna Listen To,289,Waiting For Love (Autograf Remix),True
+The Knocks,1432083458,1952,2bamw,11,EDM Girl,327,Classic (Pat Lok Shymix),True
+Ellie Goulding,1370384195,22561,1753q,21,Silence Nogood,281,Your Song (Blackmill Dubstep Remix),False
+Keegan DeWitt,1325377895,269,1b7px,7,The Wounded Jukebox,270,Thunder Clatter,False
+Camel Power Club,1436384183,2854,2c61e,3,Audio Aquarium,291,Laïka (Hannes Fischer Remix),False
+The Griswolds,1436835666,4848,2c6am,5,Write.Click.Cook.Listen ,224,If You Wanna Stay (The Rooftop Boys Remix),True
+RATATAT,1436990238,4418,2c6s7,7,bear toons,378,NIGHTCLUB AMNESIA,True
+ZZ Ward,1436869862,5039,2c6b3,13,MCL: Musique au Claire de Lune,192,LOVE 3X (RAC Mix),False
+Flight Facilities,1425248148,8528,26fc6,49,Silence Nogood,454,Two Bodies feat. Emma Louise (Extended Version),False
+Misun,1415564149,2886,27bhr,35,Substance is meaningless ,166,Superstitions,True
+Lana Del Rey,1431668223,4481,2b5c3,3,Oh My Rock,277,Born To Die (Absence Remix),True
+The Knocks,1392502626,13739,15sj5,41,SFCritic,239,Dancing With The Dj,True
+Ratatat vs. Marvin Gaye,1436497216,9055,1agk1,5,Cause=Time,206,Ain't No Drugs High Enough The Jane Doze mashup),False
+Ta-ku,1436982972,4540,2c7sr,11,gottadancedirty,216,Down For You feat. Alina Baraz,False
+kiiara,1436894930,5280,2c8bm,4,Dancing Astronaut,225,Gold (Hippie Sabotage Remix),False
+MK feat Milly Pye,1436482820,1333,2c5mc,5,Indie Shuffle,204,Bring Me To Life (Radio Edit),False
+GRiZ,1436939367,6798,2c87x,6,1833 FM,267,Summer '97 feat. Muzzy Bearr,False
+Majid Jordan,1436913309,3450,2c8tv,15,PASSIØN PARTY,249,My Love feat. Drake,False
+Ratatat,1436468416,16587,2ap7v,18,Northern Transmissions,236,Cream on Chrome,False
+Lawrence Taylor,1435942176,4499,2bw9n,7,EUPHORIA. Magazine,184,Bang Bang,False
+One T & Cool T,1435764971,1010,2bxam,5,Silence Nogood,232,The Magic Key (LeMarquis & FAB Remix),False
+Thomas Jack,1436558836,2337,2c8w1,2,Dancing Astronaut,208,Rivers,False
+Baby Bash,1436485778,1205,2c74b,4,Kick Kick Snare,266,"Baby, I'm Back feat. Akon (Christofi Remix)",False
+Toro y Moi,1436996152,1665,2c7nh,25,Different Kitchen,170,Pitch Black feat. Rome Fortune,False
+Laurel,1436890509,3318,2c718,17,EUPHORIA. Magazine,236,Blue Blood,False
+Disclosure,1436915227,1216,2c5m5,22,strictlysocial,394,Holding On (Julio Bashmore's Elevated Mix),False
+CHINAH,1436824614,3111,2c6q7,26,Kick Kick Snare,236,away from me,False
+Nicolas Jaar,1436810430,1522,2c814,3,Delicieuse Musique,360,Tourists (Creange remix),False
+Spada,1436378131,3705,2c6eb,2,Dancing Astronaut,281,Catchfire (Sun Sun Sun) (EDX's Miami Sunset Remix),True
+Sander Van Doorn,1436448485,2894,2c2mh,2,Indie UK,262,Ori Tali Ma (LVNDSCAPE Remix),False
+What So Not,1436305075,12064,2afyr,30,THUMP,270,Gemini feat. George Maple,True
+CHVRCHES,1436293541,8283,1zepg,38,surviving the golden age,318,The Mother We Share (Moon Boots Remix),False
+In The Valley Below,1435240824,4227,1rmtg,5,Indie Shuffle,287,Peaches,True
+Otis Redding,1410132124,401,26eye,1,Yaqui,232,Sittin On The Dock Of The Bay (TEEMID Edit),True
+I'lls,1436960993,739,2c1kb,19,I Oh You,246,Keep,False
+Doe Paoro,1435780888,514,2b8vq,8,Northern Transmissions,246,The Wind (feat. Adam Rhodes),False
+pools,1435685541,416,2a90h,3,Delicieuse Musique,129,☕ coffee in the morning ☕,False
+Toro y Moi,1435841783,480,2c2fa,16,Noonday Tune,93,That Instead of This,False
+PHFAT & Al Bairre,1435672825,220,2c3hh,1,Indie Shuffle,211,Caviar Dreams,False
+Crooked Colours,1436028150,5514,2bt0t,7,Wonky Sensitive,229,Electric Feel (MGMT Cover),True
+Avicii,1436622557,7272,2c6ye,7,Music You Wanna Listen To,289,Waiting For Love (Autograf Remix),True
+The Knocks,1432083458,1952,2bamw,11,EDM Girl,327,Classic (Pat Lok Shymix),True
+Ellie Goulding,1370384195,22561,1753q,21,Silence Nogood,281,Your Song (Blackmill Dubstep Remix),False
+Keegan DeWitt,1325377895,269,1b7px,7,The Wounded Jukebox,270,Thunder Clatter,False
+Camel Power Club,1436384183,2854,2c61e,3,Audio Aquarium,291,Laïka (Hannes Fischer Remix),False
+The Griswolds,1436835666,4848,2c6am,5,Write.Click.Cook.Listen ,224,If You Wanna Stay (The Rooftop Boys Remix),True
+RATATAT,1436990238,4418,2c6s7,7,bear toons,378,NIGHTCLUB AMNESIA,True
+ZZ Ward,1436869862,5039,2c6b3,13,MCL: Musique au Claire de Lune,192,LOVE 3X (RAC Mix),False
+Flight Facilities,1425248148,8528,26fc6,49,Silence Nogood,454,Two Bodies feat. Emma Louise (Extended Version),False
+Misun,1415564149,2886,27bhr,35,Substance is meaningless ,166,Superstitions,True
+Lana Del Rey,1431668223,4481,2b5c3,3,Oh My Rock,277,Born To Die (Absence Remix),True
+The Knocks,1392502626,13739,15sj5,41,SFCritic,239,Dancing With The Dj,True
+Ratatat vs. Marvin Gaye,1436497216,9055,1agk1,5,Cause=Time,206,Ain't No Drugs High Enough The Jane Doze mashup),False
+Ta-ku,1436982972,4540,2c7sr,11,gottadancedirty,216,Down For You feat. Alina Baraz,False
+kiiara,1436894930,5280,2c8bm,4,Dancing Astronaut,225,Gold (Hippie Sabotage Remix),False
+MK feat Milly Pye,1436482820,1333,2c5mc,5,Indie Shuffle,204,Bring Me To Life (Radio Edit),False
+GRiZ,1436939367,6798,2c87x,6,1833 FM,267,Summer '97 feat. Muzzy Bearr,False
+Majid Jordan,1436913309,3450,2c8tv,15,PASSIØN PARTY,249,My Love feat. Drake,False
+Ratatat,1436468416,16587,2ap7v,18,Northern Transmissions,236,Cream on Chrome,False
+Lawrence Taylor,1435942176,4499,2bw9n,7,EUPHORIA. Magazine,184,Bang Bang,False
+One T & Cool T,1435764971,1010,2bxam,5,Silence Nogood,232,The Magic Key (LeMarquis & FAB Remix),False
+Thomas Jack,1436558836,2337,2c8w1,2,Dancing Astronaut,208,Rivers,False
+Baby Bash,1436485778,1205,2c74b,4,Kick Kick Snare,266,"Baby, I'm Back feat. Akon (Christofi Remix)",False
+Toro y Moi,1436996152,1665,2c7nh,25,Different Kitchen,170,Pitch Black feat. Rome Fortune,False
+Laurel,1436890509,3318,2c718,17,EUPHORIA. Magazine,236,Blue Blood,False
+Disclosure,1436915227,1216,2c5m5,22,strictlysocial,394,Holding On (Julio Bashmore's Elevated Mix),False
+CHINAH,1436824614,3111,2c6q7,26,Kick Kick Snare,236,away from me,False
+Nicolas Jaar,1436810430,1522,2c814,3,Delicieuse Musique,360,Tourists (Creange remix),False
+Spada,1436378131,3705,2c6eb,2,Dancing Astronaut,281,Catchfire (Sun Sun Sun) (EDX's Miami Sunset Remix),True
+Sander Van Doorn,1436448485,2894,2c2mh,2,Indie UK,262,Ori Tali Ma (LVNDSCAPE Remix),False
+What So Not,1436305075,12064,2afyr,30,THUMP,270,Gemini feat. George Maple,True
+CHVRCHES,1436293541,8283,1zepg,38,surviving the golden age,318,The Mother We Share (Moon Boots Remix),False
+In The Valley Below,1435240824,4227,1rmtg,5,Indie Shuffle,287,Peaches,True
+Otis Redding,1410132124,401,26eye,1,Yaqui,232,Sittin On The Dock Of The Bay (TEEMID Edit),True
+I'lls,1436960993,739,2c1kb,19,I Oh You,246,Keep,False
+Doe Paoro,1435780888,514,2b8vq,8,Northern Transmissions,246,The Wind (feat. Adam Rhodes),False
+pools,1435685541,416,2a90h,3,Delicieuse Musique,129,☕ coffee in the morning ☕,False
+Toro y Moi,1435841783,480,2c2fa,16,Noonday Tune,93,That Instead of This,False
+PHFAT & Al Bairre,1435672825,220,2c3hh,1,Indie Shuffle,211,Caviar Dreams,False
+Crooked Colours,1436028150,5514,2bt0t,7,Wonky Sensitive,229,Electric Feel (MGMT Cover),True
+RL Grime,1415490126,3557,25hg1,14,buffaBLOG,237,Core,False
+The Besnard Lakes,1415581214,604,yqkf,110,scruffy the yak,282,Albatross,False
+Black Rebel Motorcycle Club,1424397030,2668,zjt7,34,Shelter From the Norm,226,Beat The Devil's Tattoo,False
+Tame Impala,1428242443,997,2ahss,1,Indie Shuffle,243,Cause I'm A Man,False
+Alesso,1435866580,3868,2c389,4,stereogum,191,This Summer's Gonna Hurt Like A Mother F****r (Alesso Remix) (Radio Edit),True
+A$AP Rocky,1435862106,4575,2c367,2,Dancing Astronaut,292,LSD (Shemce Remix),False
+Jack Garratt,1436820563,5033,2c3mc,27,The Wild Honey Pie,225,Weathered,True
+Gallant,1436910582,7217,2c3pf,36,CLICK AND LISTEN IT,204,Weight In Gold,True
+Tame Impala,1431358548,4716,23383,54,Silence Nogood,274,Stranger In Moscow(( MJ cover)),True
+Amen Dunes,1431629879,872,22ksd,47,Fuzzy Logic,319,Lonely Richard,False
+ZEDD feat. Selena Gomez,1435946230,1767,2bxcb,3,Music You Wanna Listen To,242,I Want You To Know (Steve James Remix),False
+Wolf Alice,1436695037,2721,2asey,41,newmusic.cz,225,Bros,False
+Panda Bear,1435690580,713,2c1g8,15,surviving the golden age,211,Crosswords (Pete Rock Remix),False
+Michael Calfan,1435628986,1224,2c14y,6,Inyourspeakers Media,254,Mercy (Original Mix),False
+BAILE,1436482816,2039,2c09y,10,Indie Shuffle,296,Matter (feat. Felicia Douglass),False
+Robyn,1436736923,2975,2c3ac,6,Dancing Astronaut,271,Dancing On My Own (Templeton Remix),True
+Toro y Moi,1435618592,1119,2c1d3,23,acid stag,189,2Late feat. Kool A.D. and SAFE,True
+Ty Dolla $ign,1435704140,2000,2c24a,11,Pitchfork,286,Blasé feat. Future & Rae Sremmurd,False
+FETTY WAP,1435841794,1479,2c41v,8,Abouttoblow,263,D.A.M DATS ALL ME,True
+Blue Hawaii,1434984577,1472,27ams,15,What Else Is There?,264,Get Happy,False
+Cheers Elephant,1435374010,5407,2bfxf,10,EUPHORIA. Magazine,212,Airliner,True
+Wavves X Cloud Nothings,1436891719,607,2c321,17,Shadazz ,200,No Life For Me,False
+GIBBZmusic,1436128256,1094,2c12f,15,CLICK AND LISTEN IT,211,I Found You,False
+Robyn,1436136131,4521,2c3tm,5,acid stag,215,Call Your Girlfriend (Thero & Taylor Wise Remix) (Feat. Allison Weiss),False
+Oh Wonder,1436912093,6837,2c48m,21,J(am) of the Day,208,Landslide,False
+KAPTAN,1435699276,1759,2c05m,16,The Burning Ear,242,Anywhere We Go,False
+Meek Mill,1435620494,2037,2c3b0,1,House of Lords,199,R.I.C.O feat. Drake,False
+Zimmer,1436579771,2205,2c369,12,Absolute Bassline,256,Heartbreak Reputation (feat. Polina),False
+Atlas Genius,1436372084,1906,2c0ff,7,Indie Shuffle,249,Molecules,False
+flor,1436305838,2534,2c135,12,What Else Is There?,246,warm blood,False
+Dillon Francis,1436052087,2980,2c2wx,6,Waxhole,193,Bruk Bruk (I Need Your Lovin),False
+Klyne,1436874551,6374,2c09d,24,Indie Shuffle,187,Paralyzed,True
+Tame Impala,1432673453,699,2atnn,4,barrygruff,247,Cause I'm a Man,False
+Unknown Mortal Orchestra,1431986850,525,2aade,8,Cause=Time,192,Multi-Love (20syl Remix),False
+Tame Impala,1436797307,13075,2a1mf,89,MusikBlog,469,Let It Happen,False
+Unknown Mortal Orchestra,1436095701,4659,2avcn,65,Too Many Blogs,257,Can't Keep Checking My Phone,False
+Unknown Mortal Orchestra,1434296110,8002,29adb,84,umstrum||music,251,Multi-Love,False
+Temples,1433493016,1443,20jvd,49,We All Want Someone To Shout For,222,Mesmerise,False
+Sinkane,1433213714,1898,24y1z,31,JayeL Audio Music,197,Hold Tight,False
+Oliver,1433213676,8626,26gx7,13,JayeL Audio Music,344,Light Years Away,False
+The Knocks,1409579404,8651,2654z,11,Site of Sound,262,Classic (RAC Mix),True
+The Knocks,1432319341,3992,2aews,10,JayeL Audio Music,197,Collect My Love feat. Alex Newell,False
+The Knocks,1432319333,4745,29s5a,19,JayeL Audio Music,250,Dancing With Myself,False
+The Knocks,1433011752,21838,25xk6,27,SFCritic,249,Classic (feat. Powers),True
+The Knocks,1365626723,6766,1t7dh,7,aerial noise,276,The Feeling (Dave Edwards Remix),False
+The Knocks,1313757777,6380,1696z,20,Berkeley Place,219,Dancing With The DJ (Chiddy Bang Remix),False
+HONNE,1431535013,2013,2b5tf,14,Musicgeeks,272,Top To Toe,False
+Santigold,1315690185,1242,trz4,5,Et Musique Pour Tous,112,I'm a Lady (Benny Blanco Remix),False
+Major Lazer,1396979559,10145,227j1,23,Maddecent,182,Aerosol Can (feat. Pharrell Williams),True
+Rudimental,1391626713,14961,21hnn,6,EARMILK,305,Free (Cash Cash X Gazzo Remix),False
+Chet Faker,1436613674,2736,2bwyg,23,Berkeley Place,206,Bend,False
+Skylar Spence,1436544915,1396,2bwjt,28,surviving the golden age,246,Can't You See,False
+Toro y Moi,1435618585,1386,2btxp,8,acid stag,145,room for 1zone,False
+Ducktails,1435754948,1387,2b5et,30,newmusic.cz,214,Headbanging In The Mirror,True
+Lapalux,1435628992,3594,29q40,25,music is art,349,Don't Mean A Thing,False
+Vaults,1433764165,1546,27nrm,12,Little Indie Blogs,204,Poison,False
+Toro Y Moi,1435845648,1817,28ykp,43,KEXP Blog,222,Empty Nesters,False
+ON AN ON,1436425241,1522,2bnef,9,Planeta Pop,227,It's Not Over (The Twelves Remix),False
+Lower Dens,1433914943,1996,1hcvp,132,MUSIC BETWEEN FRIENDS,302,Brains,False
+BebeRexha,1431623785,2219,28h1t,4,Electric Panda Music,208,I'm Gonna Show You Crazy,False
+"Astronauts, etc.",1436764462,3820,2b54c,23,The Music Court,230,No Justice,False
+Cayucas,1435564810,745,2b1kk,27,Indie is not a genre,218,Moony Eyed Walrus,True
+Billy Bragg & Wilco,1418718920,1094,30xf,27,Across The Kitchen Table,298,California Stars,True
+Hibou,1435591273,2016,2bmqa,22,barrygruff,259,Dissolve,True
+Damien Jurado,1422554260,2020,20jv6,38,The Swollen Fox,198,Silver Timothy,False
+Blitzen Trapper,1419129312,2898,k47r,64,scruffy the yak,209,Black River Killer,False
+Real Estate,1429978469,1067,21rvk,38,Fuzzy Logic,192,Talking Backwards,True
+Matrimony,1425354162,2331,29gay,9,Audio Aquarium,260,Giant (Ghosts Remix),False
+Father John Misty,1434999400,1495,27msa,44,2 U I Bestow,262,Bored In The USA,True
+Natalie Prass,1430409828,733,27cmn,24,The Swollen Fox,213,Why Don't You Believe In Me,False
+K-Os,1318957677,6068,r65a,13,Music For Kids Who Can't Read Good,190,I Wish I Knew Natalie Portman,False
+Metric,1317681076,2325,v55s,9,i (heart) music,187,Don't Think Twice It's Alright (Bob Dylan Cover),False
+American Authors,1395281720,13839,229ha,8,I Heart Moosiq,292,Best Day Of My Life (Just A Gent Remix),False
+Miguel,1401534429,15877,228mk,23,Site of Sound,205,Simplethings,True
+OutKast,1431425698,5057,2b6yd,3,Your Music Radar,194,Roses (PLS&TY Remix),True
+•◊ Hopium ◊•,1432188017,3806,2b5pr,9,Stereofox,218,Right Now,False
+The Chainsmokers,1431730579,5197,2b9jx,6,EDM Girl,253,Let You Go (Steve James Remix),False
+Wale,1262367553,5822,t8q4,7,The Music Ninja,211,New Soul Feat. Yael Naim,False
+TEEMID & Daniela Andrade,1400291103,9476,226ye,8,I Heart Moosiq,263,Crave You (Flight Facilities Cover),True
+EMBRZ,1412762840,9433,1y3jj,12,nialler9,284,Slow Down,False
+Dusky,1435513745,542,2bznk,6,Mixmag,384,Skin Deep,True
+Tuxedo,1435521615,427,2c1r6,6,The French Shuffle,238,Without Your Love,False
+Courtney Barnett,1435439227,510,29w6h,4,said the gramophone,293,Depreston,True
+The Drums,1435583696,405,265r5,2,KEXP Blog,290,I Can't Pretend,False
+Lemon.,1435937332,758,2c063,4,"Quick, Before It Melts.",165,Better For You,False
+Kelis,1435567335,833,23px8,10,Indie Shuffle,315,'Runnin' (Machinedrum Remix),False
+Monster Rally,1435454897,325,247x6,2,music islands,219,Chin-don-ya,True
+Mammút,1435502108,143,229wz,14,MusikBlog,345,Salt,False
+Janet Jackson,1435573820,935,2bzsd,10,Secret Delivery,206,No Sleeep,False
+Harrison Brome,1435345065,2338,2bq1c,10,Indie Underground,218,Fill Your Brains (Master),False
+Oh Wonder,1431710552,3799,2b8z0,10,gottadancedirty,263,Midnight Moon (Melvv Remix),False
+Astrid S,1431711436,5192,2b9zs,3,JayeL Audio Music,235,2AM (Matoma Remix),False
+TroyBoi,1432591634,2874,2ba6s,2,Indie Shuffle,201,Do You feat. Armani White (Remix),False
+Tove Lo,1431711457,6408,2b92r,4,JayeL Audio Music,278,Talking Body (Jax Jones Remix),False
+Sia,1432011040,7184,2bbc8,3,Your Music Radar,216,California Dreamin,True
+Years and Years,1436542934,9204,2b8xm,31,EUPHORIA. Magazine,254,Shine,False
+diplo,1432410549,8298,2baq6,18,Never Radio,285,Bitch Better Have My Money (Diplo & Grandtheft Remix)OFFICIAL,False
+POWERS,1435002126,9207,2ba6t,31,blahblahblahscience,205,Beat Of My Drum,False
+Gigamesh,1432070951,5362,2b9xa,9,The Jackplug,291,The Music,False
+Shura,1435343105,982,2bzty,10,DIY,443,White Light (Gabe Gurnsey Factory Floor Remix),False
+Little Giants,1436229319,4954,2c228,6,The French Shuffle,320,"Lately (Love, Love, Love) (Monsieur Adi Remix)",False
+Ishinohana,1435676498,3189,2aybj,8,Electrocorp ,317,Lucía (John Talabot's Sunset edit),False
+filous,1434991784,11768,2bd2b,10,My Old Kentucky Blog,198,How Hard I Try feat. James Hersey,False
+Blackbear,1431544990,6341,2b9ng,6,Stoney Roads,278,90210 feat. G-Eazy (Matt DiMona Remix),False
+Flume,1435212845,10887,2bk4b,20,Stereofox,264,Some Minds feat. Andrew Wyatt,False
+L'Orange & Jeremiah Jae,1435139448,4602,2ax54,9,Lautstark,171,All I Need (feat. Gift Of Gab),False
+Major Lazer,1435260147,9373,2bzkc,2,Never Radio,194,Too Original (KREAM Remix),False
+Flight Facilities,1435778732,6501,2bzvm,10,NNM,199,Heart Attack feat. Owl Eyes (Snakehips Remix),False
+kiiara,1436822128,12589,2bxjv,21,The Burning Ear,226,Gold,False
+Aayushi & Dillistone,1435603799,5864,2bz99,6,Musicgeeks,237,Diamond Child,False
+Moullinex,1435601659,838,2c03e,7,Y Este Finde Que,370,Take A Chance (Satin Jackets Remix),False
+Soma,1436052104,616,2c2et,5,Different Kitchen,198,Uncertain,False
+Addal feat. Lisa May,1435876589,3561,2c08j,5,Beautiful Buzzz,325,Morning In Love (Original Mix),False
+French Montana,1435352410,755,2c10q,5,Discobelle,229,Gucci Mane (feat. Lil Wayne & Rick Ross) (prod. by Kanye West),True
+Favored Nations,1436562473,2064,2by5n,7,Inyourspeakers Media,211,Always,False
+COMPNY,1435907779,1608,2bzm1,25,Little Indie Blogs,233,Gently Let You Down,True
+Years & Years,1435858544,4456,2c221,4,POP ON AND ON,240,King (Lash Remix),False
+Iron & Wine and Ben Bridwell,1436284591,2506,2bzr3,19,CHROMEMUSIC,213,This Must Be The Place (Naive Melody),False
+BECOME X Elohim,1436285790,2190,2c0y2,16,First Ear,160,She Talks Too Much,False
+Chance The Rapper,1435332912,1336,296pt,2,Inyourspeakers Media,225,Sunday Candy Feat. The Social Experiment,False
+SZA feat. Chance The Rapper,1409554507,7021,23c5d,42,The 405,216,Childs Play,False
+Fatima,1401852176,354,24te4,1,Don't Need No Melody,325,Biggest Joke Of All,False
+HAERTS,1419224859,2324,26by0,31,Indie Obsessive,258,Giving Up,False
+Frankie Cosmos,1411995414,187,22ky1,2,"Song, by Toad",93,My I Love You,False
+Daft Punk,1274060839,1616,smtq,6,earmilk,322,Face to Face (Night Drugs Rework),False
+Sea Oleena,1418484066,996,25z92,32,Just Music That I Like,311,If I'm,False
+Mitski,1421767468,137,26mqp,13,Music Broke My Bones,205,Townie,True
+Röyksopp,1421356888,4969,27mzc,10,music is art,396,Thank You,False
+Sean Nicholas Savage,1402671385,321,22m21,11,Dots & Dashes,226,Naturally,False
+Run The Jewels,1432517306,4209,26khp,47,Too Much Love Magazine ,214,Oh My Darling Don't Cry,False
+The Weeknd,1436629335,2918,2c298,4,The French Shuffle,300,Can't Feel My Face (Keljet Edit),False
+Will Joseph Cook,1436901285,2327,2c0vf,23,Popped Music,177,Beach,False
+Lewis Del Mar,1435590426,6814,2c0xq,13,Sonofmarketing,249,Loud(y),False
+Saint Motel,1435700113,2848,2c15e,8,Audio Aquarium,280,My Type (Eau Claire Remix),False
+"Kehlani, G-Eazy, IAMSU! and Lil B",1435304542,2249,2bzxz,6,The Passion of the Weiss,235,Champion (Prod. by P-Lo),True
+Little Giants,1435328482,8251,2aynk,10,Abduction Radiation,212,"Lately (Love, Love, Love)",False
+The Internet Music,1435884561,3690,2c0ae,17,alltomorrowmusic,416,Girl feat. KAYTRANADA,True
+Ratatat,1306942408,7825,4t74,43,TheMusic.FM,266,Seventeen Years,False
+RÜFÜS / RÜFÜS DU SOL,1436662159,7024,2c1vt,16,Poetry in an Empty Coke Can,239,You Were Right,True
+Baauer,1421740154,12554,27ehz,28,Pilerats,215,One Touch feat. AlunaGeorge & Rae Sremmurd,False
+Miguel feat. Wale,1400614510,13455,239bn,8,Guilty Feet Have Got No Rhythm,314,Bennie and the Jets,True
+Kendrick Lamar,1435504450,6762,2c2a8,3,Music You Wanna Listen To,204,i (Carneyval & INSTRUM Remix),False
+The Knocks,1271720601,775,skyq,10,Cities of the Plain,279,Can't Shake Your Love,False
+poka,1326515468,1235,1410v,3,Delicieuse Musique,248,99 style,False
+ALESSIA,1431046642,11555,2b0gs,21,J(am) of the Day,200,HERE,False
+Wiz Khalifa Feat. Charlie Puth,1432083451,5380,2azcr,5,EDM Girl,223,See You Again (Ale Mora Remix),False
+LIPS,1398541349,6405,1ffe4,10,EARMILK,244,Everything To Me (Adventure Club Dubstep Remix),True
+The Roots,1323211151,4075,1f5yf,37,AudioCred,272,Make My,True
+Oasis,1371470514,1764,45qw,17,Popdose,290,Don't Look Back in Anger,False
+Trampled By Turtles,1325914128,1477,110ex,15,SUCKA PANTS,205,Wait So Long,False
+Discovery,1318890728,3643,sqpk,40,Indieball,193,So Insane,False
+"Drake Feat. Kanye West, Lil Wayne & Eminem",1252870835,2417,v81m,8,Citizen Insane,359,Forever,False
+Bombay Bicycle Club,1412207370,4831,21kgk,29,SFCritic,191,Luna,False
+Tanya Tagaq,1427740640,153,24s65,12,Chicago Reader,169,Uja,False
+Maiday,1421410914,5306,285hh,10,The 405,218,Wish You'd Met Me First,False
+Allo Darlin',1413719345,488,260dr,21,Berkeley Place,172,Romance And Adventure,False
+Careful,1345573754,246,1n80b,7,KEXP Blog,178,It's Funny,False
+Aphex Twin,1420818134,1077,26dqh,42,Wondering Sound,288,minipops 67 (120.2)(source Field Mix),False
+Steve Gunn,1415170821,346,25e7m,14,Earbuddy,334,Milly's Garden,False
+Starfoxxx,1421182605,686,2651y,3,Electric Panda Music,309,Bae HD,False
+Public Enemy,1269833808,3783,tjvw,4,The Music Ninja,287,He Got Game,False
+Chester French,1256122730,1502,td31,11,the burning ear,354,She Loves Everybody (Pance Party Remix),False
+Vampire Weekend,1301524379,12818,q66h,28,Sunset in the Rearview,294,The Kids Don't Stand A Chance,False
+Of Montreal,1311191656,2464,ec8e,21,Music From Go to Whoa,231,Jimmy,False
+The Heavy,1304969448,3834,xbmh,11,"Safety, Fun & Learning",217,How You Like Me Now?,False
+Chairlift,1343881992,8374,kabk,49,The New LoFi,242,Bruises,False
+Florence + The Machine,1387830589,38011,wm2h,154,djnodj,344,You've Got The Love (The XX Remix),False
+The Flaming Lips,1295458743,399,emqs,10,JP's Blog,399,Bohemian Rhapsody (Queen Cover),False
+Thrupence,1421355628,2026,26w7s,23,Deftune,248,Silk,False
+Goldroom,1411838486,1008,23tcs,3,Poetry in an Empty Coke Can,279,Embrace (backstroke. Remix),False
+Cage the Elephant,1330985581,7855,16hr5,12,Richmond Playlist,212,Shake Me Down,False
+Jay-Z & Beanie Sigel,1386358289,2599,rhs4,5,djnodj,229,Glock Nines (Ratatat Remix),False
+Whilk and Misky,1422643806,16128,27qph,12,Inyourspeakers Media,318,Babe I'm Yours,False
+Electric Wire Hustle,1393236029,6168,w4d2,26,Beaver on the Beats,269,They Don't Want,False
+The Drums,1330615696,2535,1e7j4,5,The Digital Outhouse,269,Days,True
+Florence & The Machine,1433805667,4770,27170,9,EDM Girl,263,You've Got The Love (Prince Fox Remix),False
+UGK,1397166475,2587,11f4z,23,The Music Ninja,257,Int'l Players Anthem (Feat. OutKast),False
+Skrillex,1360627072,9474,176za,17,aerial noise,305,Cat Rats,False
+Fake Blood,1293679912,3541,12nm7,19,Penned Madness,319,I Think I Like It (Tommie Sunshine & Figure EC$TACY edit),False
+YOUNG & SICK,1412895392,2321,26vkp,10,Salacious Sound,282,Breathe (Télépopmusik Cover),False
+kp.,1421298584,2411,26px0,9,I Heart Moosiq,241,where did you go,False
+Kanye West vs. Sam Smith,1417833149,14239,27x6p,11,Wake the Deaf,266,Tell Me I'm The Only One (Carlos Serrano Mix),False
+Beirut,1404987764,6203,6fnn,78,Stereofox,257,Postcards From Italy,False
+Kid Cudi,1396881482,22556,1b9zx,13,Indie Shuffle,164,Falling Star (R3K Remix),False
+Crooked Colours,1426284599,2850,204z0,16,music is art,215,Come Down,True
+The Pharcyde,1424639662,15231,205k2,19,Lautstark,290,Runnin' (Bit Funk Remix),True
+Jaymes Young,1432671694,6207,26x11,8,Ladywood ,250,I'll Be Good,False
+Clean Bandit & Jess Glynne,1433869252,7298,26xhz,14,JayeL Audio Music,219,Real Love,False
+Lupe Fiasco,1299861372,4999,1993j,10,Fuck yeah! Go team!,221,All Black Everything,False
+Beach House,1350390634,2736,17a3h,82,Chromewaves,209,I Do Not Care For The Winter Sun,False
+The Flavour,1304371875,2887,1b0e2,3,Schitz Popinov,176,Sex on Fire ( Reggae Cover ),False
+Foster The People,1311445979,4355,1agyw,6,the burning ear,218,Pumped Up Kicks (The Knocks Remix),False
+TĀLĀ,1422542991,1564,26t41,40,Stamp The Wax,201,Alchemy,False
+The Knocks,1412340991,2062,26n5b,5,JayeL Audio Music,297,Classic (DiscoTech Remix) - Big Beat,False
+Yellerkin,1426079266,2362,26rsp,33,Operation Every Band,261,Tools,False
+FOYNES(nicholas basquiat),1412313689,2131,26tvt,4,I Heart Moosiq,215,Protect (Feat. Antony & Cleopatera) (Foynes Remix),False
+Aphex Twin,1417750934,2014,26qkp,3,said the gramophone,322,Aisatsana,False
+GoldLink,1425678629,1525,23hn5,7,Silence Nogood,164,Bedtime Story (Prod. Louie Lastic),False
+Kings Of Convenience,1411908566,2251,63cw,14,Indie Shuffle,235,Know How (featuring Feist),False
+HAERTS,1411830069,3026,20cjh,25,Cougar Microbes,320,Wings (Shlohmo Remix),False
+Justice,1270230236,927,vc74,8,Vacay Wave,318,We Are Your Friends (Barretso Remix),False
+Wale,1262367553,5822,t8q4,7,The Music Ninja,211,New Soul Feat. Yael Naim,False
+Young Jeezy,1325378164,1651,1fz16,8,AudioCred,312,I Do (Featuring Jay-Z & Andre 3000 ) (No Tags),True
+Solid Gold,1207942319,630,mrhv,10,Both Sides of the Mouth,258,Who You Gonna Run To?,False
+Generationals,1423668497,6338,sk35,59,Austin Town Hall,200,"When They Fight, They Fight",False
+Violent Femmes,1403503631,2617,1faj,34,THE VINYL VILLAIN,145,Blister in the Sun,False
+The Felice Brothers,1381844010,57,1aajv,11,The Key,305,Ponzi,False
+Okkervil River,1305066858,22,1a8tr,3,Salad Days Music,206,Wake And Be Fine,False
+SkizTheRapper,1323909717,693,1gght,7,The Jackplug,215,Shangri-La,True
+Phoenix,1280968468,2098,s486,27,The Indie Music Database,242,Lisztomania,False
+ODESZA,1421126899,8404,26t7k,11,acid stag,198,Say My Name (feat. Zyra) (cln Remix),False
+Dirty South,1412262863,2330,26tye,7,Dancing Astronaut,274,Unbreakable (Elephante Remix),False
+alt-J,1435425749,15858,261f8,57,The Devil Has The Best Tuna,216,Every Other Freckle,False
+Lorde,1415274587,6156,26wg0,4,Earbuddy,233,Yellow Flicker Beat,False
+RAC,1412033755,4170,26mpj,9,Chubby Beavers,265,Cheap Sunglasses feat. Matthew Koma (Two Friends Remix),False
+Mating Ritual,1428426959,5494,26ngg,19,Audio Drums,188,Toxins,False
+Joey Bada$$,1413879362,5740,26vk9,16,Pilerats,237,Get Paid,False
+TULA home,1430938581,6576,26vjs,10,grinzao,226,Wicked Game,False
+T.I.,1412633234,4830,26tj0,10,Different Kitchen,206,No Mediocre feat. Iggy Azalea (Grandtheft Remix),False
+thvn,1395521087,1895,234rw,6,Sirens of Decay,230,toxic,False
+Zeds Dead & Omar LinX,1336845565,2360,1m1bd,9,White Folks Get Crunk,284,NO PRAYERS (KEYS N KRATES RMX),True
+Felix Jaehn feat. Chris Meid,1412341004,4899,26tvp,11,JayeL Audio Music,248,One Last Time Remix,False
+Cold War Kids,1431717707,21115,26a2r,21,Never Radio,201,First,False
+Jaymes Young,1411769672,2735,26txn,5,Sunset in the Rearview,221,What Should I Do,False
+Ludacris vs Ke$ha,1271022672,1929,112sm,2,20 Watts,204,$hwagger Jagger (Pres Mashup),False
+Kings of Convenience,1393532943,5197,tqc7,17,Et Musique Pour Tous,258,I Don't Know What I Can Save You From (Röyksopp Remix),False
+Otis Redding,1319786963,4117,8fyp,15,THE VINYL VILLAIN,162,(Sittin' On) The Dock Of The Bay,False
+Lupe Fiasco,1266773584,2385,zk4s,6,Dipped in Dollars,240,What U Want,False
+Blur,1266694935,1988,tet1,4,indie shuffle,319,Song 2 (Vengeance Remix),False
+Flying Lotus,1340215660,1283,j17x,9,Sunset in the Rearview,186,Robo Tussin feat. Lil Wayne.aif 15.41.55PM,False
+Phoenix,1376072673,13704,qp90,139,Ca Va Cool,198,1901,False
+Kid Cudi,1401826513,15415,vhfh,30,The New LoFi,295,Pursuit of Happiness (Feat. MGMT And Ratatat),False
+Two Door Cinema Club,1284943514,1317,r4gh,12,The Pop Cop,167,"Hands Off My Cash, Monty",False
+The Verve Vs. Jay-Z,1278509642,8578,w7mw,12,A Pocket Full Of Seeds,304,Brush Your Bitter Sweet Shoulders Off,False
+Madeon,1318790332,3425,1f545,1,blahblahblahscience,104,Icarus,True
+Santogold,1264974163,3679,j6kn,33,the culture of me,160,I'm A Lady (Diplo Mix Ft Amanda Blank),False
+Passion Pit,1291494648,2316,rtw7,7,melophobe,212,Let Your Love Grow Tall,False
+Röyksopp,1290580316,3080,pdpr,28,JP's Blog,163,Happy Up Here,False
+James Bay,1430112938,17031,23wf2,23,Spectrum Culture,261,Let It Go,False
+Jurassic 5,1400761706,7398,24jdj,5,Musikfar,229,The Way We Do It,False
+Thomas Jack,1383703217,7312,205r0,10,Stoney Roads,539,Symphony (Original Mix),False
+Saint Etienne,1336948544,1617,1kze6,4,Vacay Wave,389,I've Got Your Music (Golden Filter Remix),False
+The Twelves,1376676141,1345,1m1d0,3,Revista Metrónomo,866,The Twelves | 08.05.2012,False
+LIL KIDS,1364915111,2409,1m1ve,5,Dingus,196,Nobodies,False
+Josef Salvat,1427056515,6543,204ky,28,josh is listening to,223,Every Night,False
+Drake,1427047676,9884,205dd,42,House of Lords,221,Come Thru (James Blake Version),False
+Yuna,1383456968,3100,205p1,2,Earbuddy,214,Lights And Camera,False
+Azealia Banks,1408541720,14726,1z53b,25,music is art,245,Atm Jam feat. Pharrell (Kaytranada Edition),False
+M83,1393380267,2524,1m0ab,52,Music For Ants,291,Graveyard Girl,False
+Ben Howard,1349061957,4765,1m1ef,5,Cover Lay Down,273,Call Me Maybe (Carly Rae Jepsen Cover),False
+The War On Drugs,1434125654,12661,20xm4,139,Inyourspeakers Media,299,Red Eyes,False
+Jaymes Young,1432936856,18851,238f5,21,JayeL Audio Music,214,Habits Of My Heart (Sufjan Stevens Remake),False
+JUNGLE,1431455725,6507,22m26,70,Abeano Music,180,Busy Earnin',False
+Zella Day,1408490052,3452,236fk,32,West Coast Fix,222,1965,False
+"Steve Aoki, Diplo & Deorro",1396549329,4277,236tz,6,Dancing Astronaut,281,Freak (feat. Steve Bays),False
+London Grammar,1419929451,4803,23781,34,Twee Huizen Verder,346,Hey Now (Bonobo Remix),False
+THE NIGHT VI,1424689244,3981,236d7,44,DrunkenWerewolf,225,Sienna,False
+SAFIA,1411032946,9720,236kx,28,Site of Sound,266,"Paranoia, Ghosts & Other Sounds",False
+Haim,1395875660,3813,236m2,15,the burning ear,359,If I Could Change Your Mind (The Knocks Remix),False
+Kindness,1411400114,3798,1k8g5,44,Genre Confused,217,House,False
+Active Child,1357100374,1933,1kqq6,16,Indiehere,183,Hanging On (GRVRBBRS Remix),False
+Ben Khan,1418037853,4086,237kw,55,When The Gramophone Rings,198,Youth,False
+Porter Robinson,1418314468,7440,236gd,23,JayeL Audio Music,368,Sea Of Voices (RAC Mix),False
+TOURIST,1398863168,15768,22ejp,41,REDEFINE magazine,271,I Can't Keep Up (feat. Will Heard),False
+D.veloped,1331919117,16131,1g7c9,12,djnodj,206,Bring Em Home (Edward Sharpe // T.I.),False
+Lykke Li,1422769422,13492,2374v,45,Cougar Microbes,221,No Rest For The Wicked,False
+EMBRZ,1412762851,9758,1z1vr,14,nialler9,322,Make Your Way,False
+D.VELOPED,1325298528,6330,1f3cm,5,Sunset in the Rearview,261,My Dangerously Melodic Anthem,False
+Eminem,1383371012,5801,207bj,3,Earbuddy,265,Beautiful Pain feat. Sia,False
+Mapei,1429832127,25997,1zm6w,50,Faded Glamour,215,Don't Wait,True
+Common,1411729256,4957,2055a,19,The 405,230,I Want You (Kaytranada Edition),False
+Edward Sharpe and the Magnetic Zeros,1384357338,2542,205f7,10,The New LoFi,355,Life Is Hard (Teen Daze Remix),False
+Kill Paris,1349283523,4307,1ky0n,8,touchez francais,259,Keep Your Secrets in Midnight City,True
+emma louise,1362666167,3857,1m13r,12,Let's Not Get Carried Away,274,Boy,False
+Goldroom,1380921961,12106,1m044,62,Buzzbands.LA,300,Fifteen (ft Chela),False
+The Knocks,1365594675,5155,1kzak,26,JayeL Audio Music,324,Learn To Fly,False
+Childish Gambino,1339605395,3197,1kzn8,8,CHROMEMUSIC,141,Fuck Your Blog (feat. Flynt Flossy & Yung Humma),False
+Laidback Luke,1357435134,3799,1kzfe,4,EARMILK,368,1234 Feat. Chuckie & Martin Solveig (Original Mix),True
+Pretty Lights,1348775925,4443,1m0jt,15,EARMILK,260,You Get High,True
+Ghost Beach,1393965924,3867,1m0a7,26,KEXP Blog,208,Miracle,False
+Swedish House Mafia,1357436105,8054,1jphx,4,EARMILK,411,Greyhound (Original Mix),False
+Ke$ha,1323851303,1214,1gff0,9,Minneapolis Fucking Rocks,293,"Sleazy Remix 2.0 - Get Sleazier (feat. Lil Wayne, Wiz Khalifa, T.I. & André 3000)",True
+Gym Class Heroes feat. Neon Hitch,1324518774,4984,1gh6m,3,the burning ear,316,Ass Back Home (Black Cards Remix),False
+the horrible crowes,1322683503,1854,1g64b,1,The New LoFi,291,sugar,True
+Felix Cartal,1359084565,11523,1ksas,10,Chubby Beavers,201,Tonight (Original Mix) (feat. Maja Ivarsson from The Sounds),False
+Amadou & Mariam,1334178678,3039,1kbzc,6,the steely stylus,312,Je pense a toi,False
+Avicii feat. Salem Al Fakir,1357436294,5850,1kbcn,3,EARMILK,392,Silhouettes (Original Vocal Mix),False
+Hoodie Allen,1336667419,10881,1kbc4,6,This Bonus Track,201,No Faith In Brooklyn (Feat. Jhameel),False
+Charlotte Gainsbourg,1342634798,1236,1g6nk,5,Faded Glamour,229,Out Of Touch,True
+Wale,1331683565,4901,1ffz9,5,EARMILK,302,Ambition (feat. Meek Mill & Rick Ross),True
+No Doubt,1335713315,599,1ksgh,1,Duurt Lang,264,Don't Speak,False
+Project 46,1336836551,1172,1ktar,3,aerial noise,316,The Rift (Original Mix),False
+Ewok Fur,1336058942,594,1ks44,3,guerolitomusic,161,moving to antarctica sounds quite ok,False
+XV,1389384143,1939,1ks0q,2,Et Musique Pour Tous,290,Pictures On My Wall,False
+Feist,1335571827,788,1krzh,1,This Is That Song,281,Secret Heart,True
+The Wanted,1335633020,1080,1ks63,1,POP ON AND ON,342,Chasing The Sun (Mario Larrea Club Mix),False
+Throttle,1337044250,1580,1ks3x,4,REMIX86,300,Next Big Thing (Original Mix),False
+Lana Del Rey,1338917368,2118,1kr6z,25,Cougar Microbes,224,Blue Jeans feat. Azealia Banks (Smims&Belle Extended Remix),False
+Viceroy & WhiteNoize,1341868148,2495,1kt18,10,Silence Nogood,332,Only Takes (Original Mix),False
+Flux Pavilion,1338793036,1466,1krp8,7,Salacious Sound,317,Daydreamer feat. Example (Jack Beats Remix),False
+Florence and the Machine,1335722946,1133,1ksjr,1,Free Breaks Blog,307,You Got The Love (The Bॐb Squad Breaks Mix),False
+Kids These Days,1365066436,1804,1ksca,3,Simply 7,221,Darling,False
+Deadmau5,1335790641,6930,1d055,4,Your Music Radar,285,Double Life Of Mau5e (Skrillex Mix),False
+Ramona Falls,1335888680,1741,1ksb9,3,The Music Ninja,220,Proof,False
+Two Door Cinema Club,1335727730,9152,11sem,8,Indie Shuffle,226,"Eat That Up, It's Good For You",False
+Joel Zimmerman,1348485425,2413,1krb0,5,Your Music Radar,431,Closer Rev.2,False
+Summer Heart,1335629405,1909,1ks5c,1,Hilly Dilly,246,I Wanted You To Stay On the Other (Side),False
+Bob Marley,1335744452,4194,1ks6g,2,The Music Ninja,306,Sun Is Shining (Smoke Out Dubstep Remix),False
+Greg Laswell,1335632942,2386,1ks5y,1,POP ON AND ON,228,Come Back Down (feat. Sara Bareilles),False
+Foster the People,1335880573,3212,1kr1b,14,All Things Go,366,Don't Stop (Oliver Remix),False
+Arion Dubstep,1322667804,2112,1g5vx,1,Penned Madness,228,I'm Coming Home ( Diddy feat. Skylar Grey),False
+Mashup-Germany,1324424713,7745,1g7r0,7,Silence Nogood,245,Top of the Pops 2011 (What The Fuck),False
+BASTILLE,1359377840,15008,1fbqe,13,JayeL Audio Music,188,What Would You Do? (City High Cover),False
+"Avicii,David Guetta,Special Features,Max'C,Pete Sweat",1325310170,3639,1fg49,2,aerial noise,369,Avicii Ft Guetta - Sunshine Special Features ( Pete Sweat - I Found U In Sunshine ),False
+The Rapture,1325624180,3392,1epjs,18,Nashville Nights,388,How Deep Is Your Love (A-Trak Remix),True
+Zeds Dead,1408378471,20066,1e2kk,32,Muros de Absenta,184,Coffee Break,True
+Birdy,1385416605,6776,1fz31,13,The Morning After,309,1901 (Phoenix Cover),False
+Mike Posner,1326170892,4522,1g53y,8,Pick Up The Headphones,204,Looks Like Sex,False
+Ryan Adams,1305462718,7,1bem2,1,Largehearted Boy,319,Head Over Heels (Tears For Fears),False
+Neko Case,1305640576,11,1bgn6,1,Town Full of Losers,125,Misfire (Queen cover),False
+Townes Van Zandt,1305462827,19,qdje,3,Carnival Saloon,196,To Live Is To Fly,False
+Emmylou Harris,1367781667,11,122mx,3,Cover Lay Down,245,Millworker (James Taylor cover),False
+William Elliott Whitmore,1305477511,5,1berf,1,captain's dead,277,what u do,False
+Ryan Adams,1305323178,6,1bdkk,1,Cover Me,78,Caribbean Queen (Billy Ocean cover),False
+My Morning Jacket,1306963090,10,1bx5q,1,Troubled Souls Unite,313,Movin Away (5.31.11),False
+The Devil Whale,1311275787,40,1bptt,11,Tough Customer // Wire,228,Standing Stones,False
+Southeast Engine,1325219381,11,1a055,3,Music Savage,307,Adeline of the Applachian Mountains,False
+Ian McFeron,1305117475,8,1bbdx,1,Richmond Playlist,210,I'll Come Knockin',False
+Overnight Celebrity Thrill,1318747343,4863,1f4xt,1,AudioCred,241,Wiz Khalifa feat. Twista & Kanye West,False
+Jay-Z & Kanye West,1327514693,3830,1f4am,10,Cougar Microbes,275,Niggas In Paris (feat. T.I.) (Remix),False
+Volta Bureau,1360699171,2875,1etbs,8,Dancing Astronaut,300,Alley Cat,True
+Peter and Kerry,1325083361,2484,1espa,5,New Music Collaborative,220,Knees,True
+Drake & Waka Flocka,1330304247,1711,1e9hp,14,EARMILK,259,Round of Applause,True
+Eric Prydz,1317889859,5897,1erev,5,One A Day,448,2Night (Original Mix),True
+Chromeo,1346958743,3241,1dfpn,27,Et Musique Pour Tous,231,When the Night Falls (feat. Solange Knowles) (Mayer Hawthorne Cover),True
+Santogold,1264974163,3679,j6kn,33,the culture of me,160,I'm A Lady (Diplo Mix Ft Amanda Blank),False
+J. Cole,1331829250,3367,1egj6,9,Avenge the Virgins,190,Nobody's Perfect (feat. Missy Elliott),False
+Band of horses,1305294485,389,bj2x,12,Draw Us Lines,189,the general specific,False
+The Elected,1324637023,57,1bbhp,7,Indie For Bunnies,232,Go For The Throat,False
+Grouplove,1319492940,9042,1f4xw,12,EARMILK,245,Colours (Xaphoon Jones Remix),False
+Neon Indian,1404685728,17059,1ddwn,97,Vocododo,266,Polish Girl,True
+Justice,1355441337,5518,1eahn,34,Stoney Roads,271,Helix,False
+T-Pain,1325054871,4786,1e8a9,10,One A Day,281,5 O'clock (feat. Wiz Khalifa & Lily Allen),False
+The White Panda,1407348076,21416,1ebcm,14,Silence Nogood,234,Midnight Life (Kanye West vs. M83),False
+Florence + The Machine,1324964489,7718,1dwev,13,blahblahblahscience,333,What The Water Gave Me,False
+YONAS,1314052155,2543,1dw12,1,Sunset in the Rearview,229,I Need A Dollar,False
+Howard Iceberg & The Titanics,1310070638,1,1csa5,1,ninebullets,206,The Wrestler,True
+David Guetta & Afrojack,1328041854,5873,1dp5k,5,This Bonus Track,317,Lunar (Original Mix),False
+Caitlin Rose,1325576576,14,1bxj3,4,Teenage Kicks,208,Faithless Love,False
+Those Darlins,1352151065,104,1aq2h,9,Rollo & Grady,220,Be Your Bro,True
+Jason Isbell & The 400 Unit,1325169924,50,1atc2,4,ninebullets,229,Alabama Pines,False
+Anthony Da Costa,1304897508,18,1b93s,1,Cover Lay Down,336,Boots of Spanish Leather (Bob Dylan Cover),False
+Richard Buckner,1304883476,4,1b90q,1,Hyperbolium,138,Traitor,False
+William Elliott Whitmore,1310967041,44,1bbvs,7,brooklynvegan,256,Everything Gets Gone,False
+Caitlin Rose,1317663180,23,19mrn,3,My Old Kentucky Blog,198,Shanghai Cigarettes (LaundroMatinee.com session),False
+O'Death,1353783619,774,18kgj,43,SUCKA PANTS,135,Bugs,False
+Keegan DeWitt,1304966262,56,16s1w,3,guerolitomusic,298,Two Hearts (mp3),False
+Ian McFeron,1305117472,7,1bbdw,1,Richmond Playlist,210,Comfort In The Bottle,False
+Ryan Adams,1305322850,6,1bdk6,1,Cover Me,382,Lovesick Blues (Hank Williams cover),False
+Jeffrey Foucault,1323445904,28,1bd94,4,Slowcoustic,293,Goners Most,False
+Ryan Adams,1305322575,16,1bdjq,1,Cover Me,401,Helpless (Neil Young cover),False
+Ryan Adams,1305322712,12,1bdjz,1,Cover Me,204,I Still Miss Someone (Johnny Cash cover),False
+Okkervil River,1324925121,87,1adc0,9,Heartache with Hard Work,265,Rider,False
+Ryan Adams,1305323068,13,1bdke,1,Cover Me,108,Asleep (The Smiths cover),False
+Ryan Adams,1305322794,15,1bdk4,1,Cover Me,194,Dead Leaves and Dirty Ground (The White Stripes cover),False
+Ryan Adams,1305323017,3,1bdkc,1,Cover Me,321,Sin City (The Flying Burrito Brothers cover),False
+Ryan Adams,1305322824,9,1bdk5,1,Cover Me,441,A Song for You (Gram Parsons cover),False
+Ryan Adams,1305322642,3,1bdjv,1,Cover Me,195,You're Still on My Mind (Luke McDaniel cover),False
+The Moondoggies,1314827629,20,18d25,7,Austin Town Hall,164,Track 01,False
+Dawes,1305254279,165,10hkx,9,The Ruckus,246,When My Time Comes,False
+Jason Isbell,1305462975,4,1bemj,1,Berkeley Place,382,Hey Pocky Way (The Meters),False
+Tinie Tempah,1305161006,3336,1bc3v,2,First up!,212,Till I'm Gone (Feat. Wiz Khalifa),False
+William Elliott Whitmore,1305477567,9,1berk,1,captain's dead,269,shotgun,False
+Ryan Adams,1305322876,6,1bdk7,1,Cover Me,639,Dead Flowers (The Rolling Stones cover),False
+Ian McFeron,1305117462,4,1bbds,1,Richmond Playlist,171,Good Morning (I'm Still Here),False
+William Elliott Whitmore,1305477472,8,1berb,1,captain's dead,135,oh susanna,False
+William Elliott Whitmore,1305477465,1,1bera,1,captain's dead,100,run johnny run,False
+Ryan Adams,1305322595,7,1bdjr,1,Cover Me,363,Wharf Rat (Grateful Dead cover),False
+Ryan Adams,1305322781,13,1bdk2,1,Cover Me,280,Sweetest Decline (Beth Orton cover),False
+The Devil Whale,1323484764,76,19ad0,10,The Wheel's Still In Spin,224,9 Barracudas,False
+Ryan Adams,1305323194,3,1bdkm,1,Cover Me,198,Brown Sugar (The Rolling Stones cover) (Band version),False
+William Elliott Whitmore,1305477481,4,1berc,1,captain's dead,182,diamond in my pocket,False
+SebastiAn,1322862812,1349,1bdm3,6,FYaCity,175,C.T.F.O. (feat. M.I.A),False
+Joe Pug,1305376360,4,1bdxz,1,Largehearted Boy,219,Speak Plainly Diana,False
+Ryan Adams,1305322679,3,1bdjx,1,Cover Me,231,Saturday Night Special (Lynyrd Skynyrd cover),False
+Santah,1317969681,55,1awtf,4,Obscure Sound,267,White Noise Bed,False
+Jason Isbell,1305462973,7,1bemh,1,Berkeley Place,365,Atlantic City (Springsteen),False
+Virginia Dare,1305365463,6,1bdww,1,For The Sake Of The Song,225,How Does It Feel,False
+Ryan Adams,1305322993,7,1bdkb,1,Cover Me,407,Rocket Man (Elton John cover),False
+Caitlin Rose,1305376267,10,197sq,2,Largehearted Boy,131,Marie (Randy Newman),False
+Ryan Adams,1305322614,4,1bdjs,1,Cover Me,294,Hickory Wind (The Byrds cover),False
+Ryan Adams,1305322552,6,1bdjp,1,Cover Me,402,Stella Blue (The Grateful Dead cover),False
+Ryan Adams,1305322632,4,1bdjt,1,Cover Me,245,Bitch (The Rolling Stones cover),False
+Ryan Adams,1305322920,3,1bdka,1,Cover Me,171,Last Nite (The Strokes cover) (Band Version),False
+Okkervil River,1323116918,84,1bdj5,5,Captain Obvious,231,The Valley,False
+Ryan Adams,1305322451,6,1bdjg,1,Cover Me,529,Come Down Easy (Spacemen 3 cover),False
+Elliott BROOD,1346512084,317,1b4px,17,Chromewaves,303,Northern Air,False
+The Elected,1324610966,141,1aasq,15,The Wheel's Still In Spin,212,Babyface,False
+Okkervil River,1325576834,320,19p5w,32,Indie Rock Cafe,216,Wake and Be Fine,False
+Drive-By Truckers,1304961698,14,vjep,2,Bottom of the Glass,302,Lookout Mountain,False
+Jason Isbell,1304980605,6,1ba1p,1,Berkeley Place,367,Into the Mystic (Van Morrison),False
+Keegan DeWitt,1304966248,54,13smw,4,guerolitomusic,287,Hearts Beat Loud,False
+Ryan Adams,1304865438,8,1b8vc,1,Largehearted Boy,119,Nervous Breakdown (Black Flag),False
+My Morning Jacket,1405792818,3933,1akfa,70,Shelter From the Norm,439,Circuital,False
+Pusha T,1305081660,1057,1a63q,3,earmilk,183,Open Your Eyes,False
+Richard Buckner,1353034462,62,1b57r,22,My Aimz is True,313,Traitor,False
+Jolie Holland,1354661575,63,1b7zm,14,This Is That Song,197,Gold and Yellow,False
+My Morning Jacket,1304966934,98,yj17,4,Football and Music,182,Blue Moon,False
+Ryan Adams,1305322744,3,1bdk0,1,Cover Me,495,Brown Sugar (The Rolling Stones cover) (Solo version),False
+The Moondoggies,1344022229,166,17zay,19,The Music Ninja,349,What Took So Long,False
+My Morning Jacket,1305290063,29,1bd4p,1,Berkeley Place,365,Careless Whisper (Wham!),False
+Ryan Adams,1317565735,9,1bdjd,3,Largehearted Boy,382,Expressway To Yr Skull %,False
+Ryan Adams,1305322508,6,1bdjk,1,Cover Me,147,Disco Duck Rap (Rick Dees and His Cast of Idiots cover),False
+Ryan Adams,1323311545,17,1bdjm,2,Fuzzy Logic,219,Sweet Home Alabama,False
+Ryan Adams,1305322695,40,tbe2,4,Cover Me,222,Like A Virgin (Madonna Cover),False
+Jon Langford,1335850352,11,1b7qh,6,Berkeley Place,257,Sentimental Marching Song,False
+Ryan Adams,1305322352,12,1bdjc,1,Cover Me,123,Last Nite (The Strokes cover) (Solo Version),False
+The Catalina Rhyme Mixers,1322548681,3725,1b8y2,3,Sunset in the Rearview,223,Nasa Drugs (Kanye West // Wale // Ratatat),False
+Ryan Adams,1305208302,7,a1n6,2,Popdose,154,Two,False
+Peter Case,1305053158,6,1achw,4,Largehearted Boy,246,Round Trip Stranger Blues,False
+The Elected,1301684315,6,1aavz,1,Everybody Taste,239,Go For The Throat,False
+Ian McFeron,1305117465,5,1bbdt,1,Richmond Playlist,243,Anna Behind The Veil,False
+Monsters Of Folk,1341952414,339,vmm7,13,surviving the golden age,174,Baby Boomer,False
+Alejandro Escovedo,1304865222,3,1b8v4,1,Largehearted Boy,446,Like A Hurricane,False
+Ian McFeron,1305117469,12,1bbdv,1,Richmond Playlist,316,Summer Nights,False
+My Morning Jacket,1335877276,200,1bbhr,6,Chromewaves,228,1373 Holdin On To Black Metal (Radio Edit),False
+Jason Isbell,1304980617,4,1ba1q,1,Berkeley Place,195,Only Daddy That'll Walk the Line (Waylon Jennings cover) (Mike Dillon on vocals),False
+Anthony Da Costa,1304897519,5,1b93v,1,Cover Lay Down,310,I'm Looking Through You (Beatles cover),False
+Okkervil River,1380548149,424,1a8rj,42,Chromewaves,206,Wake and Be Fine,False
+Friendly Fires,1372283814,11983,ma8d,124,EARMILK,464,Paris (feat. Au Revoir Simone) (Aeroplane Remix),False
+Calvin Harris,1356058307,11085,1b5g1,16,JayeL Audio Music,184,Bounce (feat. Kelis),False
+Martin Solveig feat. Dragonette,1325546976,17917,158kj,19,Audio Drums,282,Hello (Original Mix),False
+Big Sean,1308515914,2648,1b93h,5,Avenge the Virgins,217,I Do It,False
+Deadmau5,1305063865,1850,1baxw,1,Vacay Wave,443,Maths,False
+Avicii ft. Salem Al Fakir,1325568532,7084,1h189,3,Salacious Sound,358,Silhouettes (Original Mix),False
+Body Language,1393635420,4333,19dre,22,Caveman Sound,319,Social Studies (Plastic Plates Remix),False
+Bon Iver,1373979172,6605,d6gc,51,Shelter From the Norm,401,Re: Stacks,False
+Boy & Bear,1320975916,4929,w0q8,28,The Dadada Music Blog,187,Mexican Mavis,False
+California Wives,1342620696,3084,19k2h,34,The Panic Manual,246,Tokyo,False
+BRITNEY SPEARS,1302429266,1818,1ahex,2,Nashville Nights,227,Till the World Ends ( Bloody Beetroots Rmx ),False
+Foster The People,1325284532,18434,zwnr,77,Golden Bloggen,253,Pumped Up Kicks,False
+Ayah Marar,1303875956,1889,1a9z9,2,earmilk,222,Follow You (YOGI REMIX),False
+Al Bizzare,1304055139,4290,1b24j,1,Vacay Wave,285,Fresh Scream,False
+Eminem,1303925451,6640,1b0s0,1,This Bonus Track,217,"A Drop In The Ocean (feat. Kanye West, Wiz Khalifa & Ron Pope)",False
+The Dean's List,1335806955,8802,1af10,10,Become Your Drum,153,Dear Professor,False
+Red Hot Chili Peppers,1334590599,6519,1aa3b,6,EARMILK,265,Can't Stop (Love & Light Dubstep Remix),False
+Avicii vs. Morgan Page and Lissie,1339767580,9164,18cmr,5,EARMILK,431,The Longest Bromance (Iacabone Edit),False
+Foster The People,1432209611,13150,1ba33,39,Lautstark,241,Call It What You Want,False
+Ellie Goulding,1325310256,9975,1b9aq,9,aerial noise,269,Heartbeats (Cosmonaut Grechko edit),False
+e-dubble,1305495718,3263,1b89w,4,This Bonus Track,320,Changed My Mind,False
+D.veloped,1331919117,16131,1g7c9,12,djnodj,206,Bring Em Home (Edward Sharpe // T.I.),False
+Ellie Goulding,1309303157,7359,x1v7,13,earmilk,282,Under The Sheets (Baby Monster Remix),False
+Alex Winston,1325011383,1700,18c30,15,EARMILK,220,Locomotive,False
+Afrojack,1304588831,850,1b6qs,1,earmilk,259,Prututa,False
+Emalkay,1375616570,895,1b5pj,2,embee music,291,Fabrication (Extended Mix),False
+Benjamin Francis Leftwich,1348644717,2419,14wvc,19,ShinyShinyNew,197,When You Were Young,False
+Hidetake Takayama,1293403128,993,17pn7,1,Hilly Dilly,340,Sunset Song,False
+Toro Y Moi,1350827367,9772,17610,144,frenchysymphony,270,Still Sound,False
+Justice,1308773974,1769,1afzn,3,I Love This Beat,304,Civilization (Neon Stereo Private Bootleg),False
+Austra,1427011625,12532,18bt7,102,Audio Drums,270,Lose It,False
+Childish Gambino,1377887648,18984,190q4,30,EARMILK,215,Freaks & Geeks,False
+Metric,1348597919,12815,rppc,30,Off the Radar,263,Help I'm Alive (The Twelves Remix),False
+Jai Paul,1348971727,10013,108jg,64,music is art,211,BTSTU,False
+Divide & Kreate,1304552587,7300,18vtm,6,Oh My Rock,201,Crazy in the deep (Adele vs Gnarles Barkley),False
+Robyn,1337744210,6507,19jvd,21,From a High Horse,296,Call Your Girlfriend (Feed Me Remix),False
+Afrojack,1305171366,4449,1b4ry,4,gottadancedirty,324,Pop On Acid,False
+Afrojack & R3hab,1306262788,2310,1b6d9,2,Sheena Beaston,360,Aces High Prutata (Original Mix),False
+Avicii,1327693307,24373,1b6a2,29,Seattle in High Def,334,Levels (Original Mix),False
+Band Of Horses,1387555283,14328,19qx6,15,Et Musique Pour Tous,305,The Funeral (Butch Clancy Remix),False
+James Vincent McMorrow,1337292515,13240,1ae4f,35,2 U I Bestow,205,We Don't Eat (Adventure Club Dubstep Remix),False
+Wolfgang Gartner feat. Will.I.Am,1304570119,3180,1ahcr,6,The Wet Blog,220,Forever (Radio Edit),False
+Cults,1393380237,20104,102c2,224,Music For Ants,202,Go Outside,False
+Dr. Dre,1296329653,5573,18jdc,3,Music-mashs Blog,284,I Need a Doctor (feat. Eminem),False
+Afrojack,1302385146,7499,17pca,3,This Bonus Track,480,Replica (Daft Punk Vs. Yelle Vs. Katy Perry Vs. Bloc Party Vs. Major Lazer),False
+Of Monsters And Men,1373125380,26222,179kx,71,Meadow Music,246,Little Talks,False
+Xaphoon Jones,1302910714,12188,1ab7h,14,Oh My Rock,179,The Jackson Pit,False
+Beastie Boys,1389881667,6694,1aez0,63,The Dadada Music Blog,210,Make Some Noise,False
+iSquare,1305901910,7239,15v9c,10,The World Forgot,324,HEY SEXY LADY (SKRILLEX REMIX),False
+The White Panda,1316444230,7706,1621k,7,Silence Nogood,172,Escape Day 'N' Nite (Kid Cudi // Tiesto),False
+Zeds Dead,1316813070,7339,12ec5,21,Silence Nogood,271,White Satin,False
+Wiz Khalifa,1293397681,880,17pk5,1,the culture of me,221,This Plane (Sound Remedy remix),False
+Robyn,1389244065,12434,11aym,60,Listen Before You Buy,291,Dancing On My Own,False
+Arcade Fire,1379354898,10865,13n5s,74,JP's Blog,326,Sprawl II (Mountains Beyond Mountains),False
+The Tallest Man On Earth,1389711378,6741,z7wd,117,Star Maker Machine,206,King of Spain,False
+Bright Eyes,1325803554,3681,17hp9,64,music is art,236,Shell Games,False
+Lupe Fiasco,1309231981,23797,15xt6,28,No Genre,240,The Show Goes On,False
+Amadou & Mariam,1331919159,12322,1789c,31,djnodj,353,Sabali (Miike Snow Remix),False
+Caribou,1415283688,16615,z73x,192,Le Limonadier,315,Odessa,False
+Röyksopp,1293480460,2931,pr7d,35,FYaCity,332,Happy Up Here (Boys Noize Remix),False
+The Black Keys,1396361049,22235,10k0q,94,Indie Shuffle,210,Tighten Up,False
+Sleigh Bells,1322868688,10370,124sg,63,EARMILK,230,Rill Rill,False
+Skrillex,1308774166,4556,15wcb,14,I Love This Beat,204,Scary Monsters And Nice Sprites (Noisia Remix),False
+Broken Bells,1397990686,19013,y7dr,124,Delicieuse Musique,232,The High Road,False
+Clockwork,1293262570,1622,10gjx,5,surviving the golden age,241,Office Musik (Dwight K. Schrute vs Weezy F. Baby),False
+Chiddy Bang,1293255347,3205,155za,2,Silence Nogood,177,The Good Life (Prod. Pharrell Williams),False
+Lady Gaga,1293235725,2407,11x0p,5,Ants in My Trance,377,Alejandro (Skrillex Club Mix),False
+Skrillex,1315989961,8820,162dq,15,Friends From Far,297,Kill Everybody (Original Mix),False
+Gorillaz,1303680740,2078,17nvy,10,earmilk,206,Revolving Doors,False
+Cee-Lo Green,1303832818,17482,1618f,67,Another Dying Art Form,225,Fuck You,False
