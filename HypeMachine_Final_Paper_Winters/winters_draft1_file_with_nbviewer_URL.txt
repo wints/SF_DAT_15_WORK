@@ -1,1 +1,0 @@
-http://nbviewer.ipython.org/github/wints/SF_DAT_15_WORK/blob/master/winters_project_first_draft/Winters_HypeMachine_Project_Draft1.ipynb
