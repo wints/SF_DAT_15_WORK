@@ -5,7 +5,7 @@ from sklearn import metrics
 from sklearn import tree
 
 # First, with tags
-songs_tags = pd.read_csv('songs_INDEXED_TAGLIST_NOECHO.csv')
+songs_tags = pd.read_csv('https://raw.githubusercontent.com/wints/SF_DAT_15_WORK/master/HypeMachine_Final_Paper_Winters/songs_INDEXED_TAGLIST_NOECHO.csv')
 songs_tags_dummies = songs_tags['tags'].str.get_dummies(sep=',')
 songs_all_tags = songs_tags.merge(songs_tags_dummies, right_index=True, left_index=True)
 songs_all_tags = songs_all_tags.drop(['artist', 'loved_count', 'posted_count', 'sitename', \
@@ -40,7 +40,7 @@ songs_tags_clean = songs_tags[['loved', 'sitename', 'mediaid', 'artist', 'title'
 
 
 # Now with Echonest data
-songs_echo = pd.read_csv('songs_ALL_ATTRIBUTES_PLUS_TAGSUM.csv')
+songs_echo = pd.read_csv('https://raw.githubusercontent.com/wints/SF_DAT_15_WORK/master/HypeMachine_Final_Paper_Winters/songs_ALL_ATTRIBUTES_PLUS_TAGSUM.csv')
 songs_echo = songs_echo[['loved', 'valence', 'instrumentalness', 'loudness', 'speechiness'\
 , 'tempo', 'time_signature', 'acousticness', 'danceability', 'duration', 'energy', 'liveness',\
 'mediaid']]
